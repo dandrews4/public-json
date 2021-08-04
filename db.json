@@ -46,7 +46,7 @@
       "customerName": "Jane Doe",
       "active": true,
       "address": {
-        "name": "Jane Doe,
+        "name": "Jane Doe",
         "street": "789 Main Street",
         "city": "Any Town",
         "state": "AS",
