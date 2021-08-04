@@ -1,0 +1,64 @@
+{
+  "customers": [
+    {
+      "customerId": 1,
+      "accountValue": 10,
+      "customerName": "Bob Smith",
+      "active": true,
+      "address": {
+        "name": "Bobby Smith",
+        "street": "123 Main Street",
+        "city": "Any Town",
+        "state": "AS",
+        "zip": "12345"
+      },
+      "contacts": [
+        {
+          "name": "Bob E Smith",
+          "email": "bes@example.com",
+          "phone": "987-555-1234"
+        }
+      ]
+    },
+    {
+      "customerId": 2,
+      "accountValue": 10,
+      "customerName": "John Smith",
+      "active": true,
+      "address": {
+        "name": "Johnny Smith",
+        "street": "456 Main Street",
+        "city": "Any Town",
+        "state": "AS",
+        "zip": "12345"
+      },
+      "contacts": [
+        {
+          "name": "Jack W Smith",
+          "email": "js@example.com",
+          "phone": "987-555-1234"
+        }
+      ]
+    },
+    {
+      "customerId": 3,
+      "accountValue": 10,
+      "customerName": "Jane Doe",
+      "active": true,
+      "address": {
+        "name": "Jane Doe,
+        "street": "789 Main Street",
+        "city": "Any Town",
+        "state": "AS",
+        "zip": "12345"
+      },
+      "contacts": [
+        {
+          "name": "Jane Doe",
+          "email": "jdoe@example.com",
+          "phone": "987-555-1234"
+        }
+      ]
+    }
+  ]
+}
